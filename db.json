@@ -1,0 +1,40 @@
+{
+  "todos": [
+    {
+      "title": "Create a Visual Guide",
+      "description": "prepare a ui/ux for the presentation that need to be shown to the client",
+      "createdAt": "Jun 17 2024",
+      "priority": "high",
+      "category": "work",
+      "id": 1
+    },
+    {
+      "title": "Cooking or Baking",
+      "description": "I want to try some new recipes or bake something sweet.",
+      "priority": "medium",
+      "category": "home",
+      "createdAt": " Jun 21 2024",
+      "id": 3
+    }
+  ],
+  "completed": [
+    {
+      "title": "Meeting Old Friends",
+      "description": "time to catch up with some old friends !",
+      "priority": "high",
+      "category": "other",
+      "createdAt": " Jun 21 2024",
+      "finishedAt": " Jun 21 2024",
+      "id": 2
+    },
+    {
+      "title": "Analyze Research Data",
+      "description": "take the key points from the latest research done by the team",
+      "createdAt": "Jun 18 2024",
+      "priority": "low",
+      "category": "work",
+      "finishedAt": " Jun 21 2024",
+      "id": 3
+    }
+  ]
+}
